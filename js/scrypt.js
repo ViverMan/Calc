@@ -84,3 +84,9 @@ function calc(value) {
         output.textContent += value
     }
 }
+
+
+
+
+
+
